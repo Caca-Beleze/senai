@@ -1,0 +1,154 @@
+h1
+{color: white;
+position: relative;
+ font-family: 'anticslab';}
+#logo{
+background-color: #e49aa7;
+height: 120px;
+width: 100%;
+top: 0px;
+margin-left: -8px;
+position:absolute;}
+
+#pesquisa{
+background-color: #c17884;
+height: 65px;
+width: 100%;
+top: 120px;
+margin-left: -8px;
+position:absolute;}
+
+#areas{
+background-color: #C5027C;
+height: 80px;
+width: 100%;
+top: 673px;
+margin-left: 0px;
+position:absolute;}
+
+#redes{
+    position: absolute;
+    font-size: 12px;
+    margin-top: 300px;
+    margin-left: 120px;
+}
+
+#imgfundo{
+    background-color: black;
+    background-image: url(../img/site.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;}
+     
+#botao1 {
+display: inline-block;
+background-color: #c17884;
+width: 180px;
+height: 55px;
+position: absolute;
+top: 5px;
+font-family: 'anticslab';
+left: 8px;
+text-align: center;
+font-size: small;
+text-decoration: none;}
+
+#botao1:hover {background-color: #eea1ae;}
+#botao1:active {background-color: #d08995;}
+
+#botao2 {
+background-color: #c17884;
+width: 180px;
+height: 55px;
+top:5px;
+position: absolute;
+left: 198px;
+text-align: center;
+font-size: small;
+font-family: 'anticslab';}
+
+#botao2:hover { background-color: #eea1ae;}
+#botao2:active {background-color:#d08995;}
+
+#botao3 {
+background-color: #c17884;
+width: 180px;
+height: 55px;
+top:5px;
+position: absolute;
+left: 388px;
+text-align: center;
+font-size: small;
+font-family: 'anticslab';}
+
+#botao3:hover {background-color: #eea1ae;}
+#botao3:active {background-color: #d08995;}
+
+#botao4 {
+background-color: #c17884;
+width: 180px;
+height: 55px;
+position: absolute;
+top:5px;
+left: 578px;
+text-align: center;
+font-size: small;
+font-family: 'anticslab';}
+
+#botao4:hover {background-color: #eea1ae;}
+#botao4:active {background-color: #d08995;}
+
+#botao5 {
+background-color: #c17884;
+width: 180px;
+height: 55px;
+position: absolute;
+top:5px;
+left: 768px;
+text-align: center;
+font-size: small;
+font-family: 'anticslab';}
+
+#botao5:hover {background-color: #eea1ae;}
+#botao5:active {background-color: #d08995;}
+
+#botao6 {
+background-color: #c17884;
+width: 180px;
+height: 55px;
+position: absolute;
+top: 5px;
+left: 958px;
+text-align: center;
+font-size: small;
+font-family: 'anticslab';}
+
+#botao6:hover { background-color: #eea1ae;}
+#botao6:active {background-color: #d08995;}
+
+#botao7 {
+background-color: #c17884;
+width: 180px;
+height: 55px;
+position: absolute;
+top: 5px;
+left: 1148px;
+text-align: center;
+font-size: small;
+font-family: 'anticslab';}
+
+#botao7:hover { background-color: #eea1ae;}
+#botao7:active {background-color: #d08995;}
+
+#botao8 {
+background-color: #c17884;
+width: 180px;
+height: 55px;
+position: absolute;
+top: 5px;
+left: 1338px;
+text-align: center;
+font-size: small;
+font-family: 'anticslab';}
+
+#botao8:hover { background-color: #eea1ae;}
+#botao8:active {background-color: #d08995;}

@@ -1,0 +1,173 @@
+h1
+        {color: white;
+        position: relative;
+        font-family: 'anticslab';}
+        h2
+        {color: rgb(255, 222, 222);
+        font-size: 1.55em;
+        font-family: 'anticslab';
+        }
+        p{color:#f6c4cc;
+          font-size: 2.5em;
+          font-weight: bold;
+          position: absolute;
+          font-family: 'anticslab';
+        }
+        #texto{
+          position: absolute;
+          top: 40px;
+          left: 20px;}
+
+        #especi{
+          position: relative;
+          font-family: 'anticslab';
+          font-size: 10px;
+          margin-top: 610px;}
+
+      #logo{
+      background-color: #e49aa7;
+      height: 120px;
+      width: 100%;
+      top: 0px;
+      margin-left: -8px;
+      position:absolute;}
+
+      #pesquisa{
+      background-color: #c17884;
+      height: 65px;
+      width: 100%;
+      top: 120px;
+      margin-left: -8px;
+      position:absolute;}
+
+      #areas{
+      background-color: #C5027C;
+      height: 180px;
+      width: 110%;
+      top: 660px;
+      margin-left: -8px;
+      position:relative;}
+
+      #campanharosa{
+      background-color: #C5027C;
+      height: 405px;
+      border-radius: 50%;
+      top: 415px;
+      width: 27%;
+      margin-left: 1098px;
+      position:absolute;}
+
+      #esfera1{
+        background-color: #D1FF68;
+        height: 100px;
+        border-radius: 50%;
+        width: 100px;
+        top: 20px;
+        margin-left: 105px;
+        font-family: 'anticslab';
+        position:absolute;}
+
+        #esfera1:hover {background-color: #cef07e;}
+        #esfera1:active {background-color: #bbeb4b;}
+
+      #esfera2{
+        background-color: #F3BD72;
+        height: 100px;
+        border-radius: 50%;
+        top: 20px;
+        width: 100px;
+        margin-left: 385px;
+        font-family: 'anticslab';
+        position:absolute;}
+
+        #esfera2:hover {background-color: #f9ce91;}
+        #esfera2:active {background-color: #fbbb62;}
+
+      #esfera3{
+        background-color: #D060A6;
+        height: 100px;
+        border-radius: 50%;
+        top: 20px;
+        width: 100px;
+        font-family: 'anticslab';
+        margin-left: 655px;
+        position:absolute;}
+
+        #esfera3:hover {background-color: #d179b0;}
+        #esfera3:active {background-color: #cf4a9c;}
+
+      #esfera4{
+        background-color: #54B6FE;
+        height: 100px;
+        border-radius: 50%;
+        top: 20px;
+        width:100px;
+        margin-left: 905px;
+        font-family: 'anticslab';
+        position:absolute;}
+
+        #esfera4:hover {background-color: #70c0f9;}
+        #esfera4:active {background-color: #43acf8;}
+
+        #imgfundo{
+            background-color: black;
+            background-image: url(../img/site.png);
+            background-repeat: no-repeat;
+            background-attachment: fixed;}
+             
+      #botao1 {
+      display: inline-block;
+      background-color: #c17884;
+      width: 180px;
+      height: 55px;
+      position: absolute;
+      top: 5px;
+      font-family: 'anticslab';
+      left: 78px;
+      text-align: center;
+      font-size: small;
+      text-decoration: none;}
+
+      #botao1:hover {background-color: #eea1ae;}
+    #botao1:active {background-color: #d08995;}
+
+     #botao2 {
+      background-color: #c17884;
+      width: 280px;
+      height: 55px;
+      top:5px;
+      position: absolute;
+      left: 460px;
+      text-align: center;
+      font-size: small;
+      font-family: 'anticslab';
+    } #botao2:hover { background-color: #eea1ae;}
+    #botao2:active {background-color:#d08995;}
+
+    #botao3 {
+      background-color: #c17884;
+      width: 180px;
+      height: 55px;
+      top:5px;
+      position: absolute;
+      left: 878px;
+      text-align: center;
+      font-size: small;
+      font-family: 'anticslab';}
+
+      #botao3:hover {background-color: #eea1ae;}
+    #botao3:active {background-color: #d08995;}
+
+    #botao4 {
+      background-color: #c17884;
+      width: 180px;
+      height: 55px;
+      position: absolute;
+      top:5px;
+      left: 1218px;
+      text-align: center;
+      font-size: small;
+      font-family: 'anticslab';}
+
+    #botao4:hover {background-color: #eea1ae;}
+    #botao4:active {background-color: #d08995;}
